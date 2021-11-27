@@ -1,5 +1,7 @@
 # WiFi Login Phisher
-<h3><center>Simple WiFi Login Phishing Page made for targeting  admin passcode</center></h3>
+### Simple WiFi Login Phishing Page made for targeting  admin passcode
+
+### Note: This tool is not made to be used for harming others, it is made for educational purposes only. I am not responsible for your actions. Kindly, don't misuse this tool.
 
 ## Features
 
@@ -13,4 +15,6 @@
  - Run the main file by typing `sudo bash main.sh`
 
 ## Copyright Information
-*Everything in the <a href="https://github.com/Phishing-Attacks">Phishing Attacks</a> Organisation is registered with MIT License.*
+*Every project in the [Phishing Attacks](https://github.com/Phishing-Attacks) organisation is registered with MIT License.*
+
+
