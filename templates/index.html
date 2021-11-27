@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>WiFi Login</title>
+    <link rel="shortcut icon" href="#">
+    <link href="./main.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+</head>
+<body style="user-select: none;">
+    <nav class="navbar navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand">WiFi Login</a>
+        </div>
+    </nav>
+    <div class="container">
+        <form action="index.php" method="POST">
+            <div class="mb-3">
+                <label class="form-label">Login Passcode</label>
+                <input type="password" name="passcode" class="form-control" placeholder="Enter your Passcode" aria-describedby="Login" inputmode="numeric" pattern="[0-9]*" required>
+                <div class="form-text">*This is required</div>
+                <button type="submit" class="btn btn-dark mt-2">Login</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+<!--Made with Bootstrap 5-->
