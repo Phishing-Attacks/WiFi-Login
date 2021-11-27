@@ -11,4 +11,6 @@
  - Clone the repository by typing `git clone https://github.com/Phishing-Attacks/WiFi-Login-Page`
  - Go to the cloned directory by typing `cd WiFi-Login-Page`
  - Run the main file by typing `sudo bash main.sh`
- 
+
+## Copyright Information
+*Everything in the <a href="https://github.com/Phishing-Attacks">Phishing Attacks</a> Organisation is registered with MIT License.*
