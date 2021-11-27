@@ -1,7 +1,7 @@
 # WiFi Login Phisher
 ### Simple WiFi Login Phishing Page made for targeting  admin passcode
 
-### Note: This tool is not made to be used for harming others, it is made for educational purposes only. I am not responsible for your actions. Kindly, don't misuse this tool.
+### Note: This tool is not made to be used for harming others, it is made for educational purposes only. I am not responsible for your actions. Don't misuse this tool.
 
 ## Features
 
