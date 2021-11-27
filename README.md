@@ -15,6 +15,4 @@
  - Run the main file by typing `sudo bash main.sh`
 
 ## Copyright Information
-*Every project in the [Phishing Attacks](https://github.com/Phishing-Attacks) organisation is registered with MIT License.*
-
-
+*Every project made by [Phishing Attacks](https://github.com/Phishing-Attacks) organisation is registered with MIT License.*
