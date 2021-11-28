@@ -10,8 +10,8 @@
  - Runs on localhost & local network
  
 ## Usage
- - Clone the repository by typing `git clone https://github.com/Phishing-Attacks/WiFi-Login-Page`
- - Go to the cloned directory by typing `cd WiFi-Login-Page`
+ - Clone the repository by typing `git clone https://github.com/Phishing-Attacks/WiFi-Login`
+ - Go to the cloned directory by typing `cd WiFi-Login`
  - Run the main file by typing `sudo bash main.sh`
 
 ## License
