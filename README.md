@@ -14,5 +14,5 @@
  - Go to the cloned directory by typing `cd WiFi-Login-Page`
  - Run the main file by typing `sudo bash main.sh`
 
-## Copyright Information
+## License
 *Every project made by [Phishing Attacks](https://github.com/Phishing-Attacks) organisation is registered with MIT License.*
